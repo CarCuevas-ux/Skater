@@ -51,7 +51,7 @@ body {
     height: 0;
     border-left: 15px solid transparent;
     border-right: 15px solid transparent;
-    border-bottom: 35px solid orange;
+    border-bottom: 25px solid orange;
     position: absolute;
     bottom: 0;
     animation: moveObstacle 3s linear infinite;
